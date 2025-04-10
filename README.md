@@ -11,7 +11,7 @@ A simple Todo app built using **React.js** that allows users to **Create**, **Re
 - 📂 View todos and completed items separately with tab navigation
 - 🎨 Clean and modern UI with a dark theme
 
-## 🛠️ Built With
+## Technologies Used
 
 - [React.js](https://reactjs.org/)
 - [HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
